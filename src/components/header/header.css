@@ -1,6 +1,6 @@
 header{
     height: 100vh;
-    padding-top: 7rem;
+    padding-top: 1.5rem;
     overflow: hidden;
 }
 
@@ -52,8 +52,8 @@ header{
     right: -2.3rem;
     bottom: 5rem;
     transform: rotate(90deg);
-    font-weight: 300;
-    font-size: 0.9rem;
+    font-weight: 600;
+    font-size: 3rem;
 }
 /*......media queries (medium devices)......*/
 
